@@ -1,0 +1,4 @@
+[submodule "Packages/UPM-Template"]
+	path = Packages/UPM-Template
+	url = https://github.com/akiyakun/UPM-Template.git
+	branch = upm_develop
