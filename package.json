@@ -1,7 +1,1 @@
-{
-  "name": "com.sample.upmtemplate",
-  "version": "0.0.1",
-  "displayName": "UPM-Template",
-  "unity": "2018.4",
-  "description": "UPM-Template"
-}
+{"name":"com.sample.upm4","version":"0.0.1","displayName":"UPM-Template","unity":"2018.4","description":"UPM-Template"}
